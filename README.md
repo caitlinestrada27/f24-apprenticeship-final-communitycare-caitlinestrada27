@@ -1,1 +1,4 @@
-# f24-apprenticeship-final-communitycare-caitlinestrada27
+# Community Care
+### Final Project for App Team Carolina iOS Apprenticeship F24
+
+To combine everything I learned in App Team Carolina's iOS Apprenticeship I created a public health centered app called Community Care. I used multiple Views, Models, ViewModels, Models, Services, and Shared to create the finished product. The app prompts you to allow Location Access then uses your location to find all care centers within 300 miles of you. Using Apple's MapKit API and MKSearchLocalSearch to filter and tag the care centers by queries of "hospital", "clinic", "pharmacy", "urgent care", and "other". Users can search the list view of Care Centers by location, address, name, etc. or filter by specific type. Once the user clicks on their chosen care center, they can see the name, type, Map View, Address (with link to Apple Maps), and insurance providers accepted. Community Care makes healthcare in the United States more accessible and informational to help patients find the care they deserve.  
